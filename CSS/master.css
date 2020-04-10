@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+
+@import url('basic.css');
+
+@import url('btn/master.css');
+@import url('blue/master.css');
+@import url('dark/master.css');
+@import url('light/master.css');
+@import url('ripple/master.css');
+@import url('dark/master.css');
+@import url('switch/master.css');
+@import url('radio/master.css');
+@import url('shaddow/master.css');
+@import url('green/master.css');
+@import url('card/master.css');
+@import url('code/master.css');
+@import url('text/master.css');
+
+html {
+  font-family: "Open Sans", roboto, arial, sans-serif;
+}

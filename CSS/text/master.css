@@ -1,0 +1,17 @@
+input.text {
+  border-width: 4px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-color: #eceff1;
+  background-color: #eceff1;
+  padding: 8px;
+  border-radius: 4px;
+  transition-duration: 0.5s;
+  font-size: 110%;
+}
+
+input.text:focus {
+  outline: none;
+  border-color: #2196f3;
+}

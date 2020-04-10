@@ -1,0 +1,25 @@
+button.green {
+  background-color: #4caf50;
+  color: white;
+}
+
+button.green:hover {
+  background-color: #8bc34a;
+  color: black;
+}
+
+label.switch span.green:before {
+  background-color: white;
+}
+
+label.switch span.green:hover {
+  background-color: #8bc34a;
+}
+
+label.switch span.green:after {
+  background-color: #4caf50;
+}
+
+input:checked + span.slider.green {
+    background-color: #4caf50;
+}

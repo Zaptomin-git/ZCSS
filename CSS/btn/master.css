@@ -1,0 +1,16 @@
+@import url('small/master.css');
+@import url('large/master.css');
+
+button.btn {
+  border-radius: 4px;
+  border: none;
+  transition-duration: 0.5s;
+}
+
+button.btn:focus {
+  outline: none;
+}
+
+button.btn:hover {
+  cursor: pointer;
+}

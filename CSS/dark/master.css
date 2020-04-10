@@ -1,0 +1,35 @@
+button.dark {
+  background-color: #263238;
+  color: white;
+}
+
+button.dark:hover {
+  background-color: #455a64;
+  color: white;
+}
+
+label.switch span.dark:before {
+  background-color: white;
+}
+
+label.switch span.dark:hover {
+  background-color: #455a64;
+}
+
+label.switch span.dark:after {
+  background-color: #263238;
+}
+
+input:checked + span.slider.dark {
+    background-color: #263238;
+}
+
+div.card.dark {
+  background-color: #455a64;
+  color: white;
+}
+
+div.card.dark div.container {
+  background-color: #263238;
+  color: inherit;
+}

@@ -1,0 +1,25 @@
+button.blue {
+  background-color: #42a5f5;
+  color: white;
+}
+
+button.blue:hover {
+  background-color: #29b6f6;
+  color: black;
+}
+
+label.switch span.blue:before {
+  background-color: white;
+}
+
+label.switch span.blue:hover {
+  background-color: #29b6f6;
+}
+
+label.switch span.blue:after {
+  background-color: #29b6f6;
+}
+
+input:checked + span.slider.blue {
+    background-color: #42a5f5;
+}

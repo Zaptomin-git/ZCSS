@@ -1,0 +1,12 @@
+p.code {
+  background-color: #42a5f5;
+  border-style: solid;
+  border-color: #1e88e5;
+  border-top: none;
+  border-bottom: none;
+  padding: 8px;
+  border-width: 10px;
+  border-radius: 4px;
+  font-family: monospace;
+  color: #b3e5fc;
+}
